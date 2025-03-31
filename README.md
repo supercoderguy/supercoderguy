@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supercoderguy
+- 👋 Hi, I’m Linux User Lucario!
 - 👀 I’m interested in Pokémon, Linux and old technology!
 - 🌱 I’m currently learning Objective-C programming!
 - 📫 How to reach me: just use jffbk@outlook.com
