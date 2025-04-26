@@ -1,3 +1,5 @@
+-- CURRENTLY MOVING TO GITLAB (https://gitlab.com/linuxuserlucario) --
+
 - 👋 Hi, I’m Linux User Lucario!
 - 👀 I’m interested in Pokémon, Linux and old technology!
 - 🌱 I’m currently learning Swift programming (see MacPokédex)!
