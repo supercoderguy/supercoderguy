@@ -6,6 +6,6 @@
 - How to reach me: just use jffbk@outlook.com
 - Fun fact: I once used Arch Linux for 5 months on my main laptop (Dell Inspiron 14 5410 2-in-1)
 
-Upcoming project: Lucent Launcher - a customisable Android launcher with optional Material You
+Upcoming project: I'm open to suggestions :)
 
-Latest project: ntfymsg - a CLI messaging service that integrates with ntfy.sh
+Latest project: Lucent Launcher - a customisable Android launcher that respects your privacy.
